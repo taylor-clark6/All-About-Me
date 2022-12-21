@@ -3,7 +3,8 @@
   <h1>Nice to meet you!</h1>
 </head>
 <body>
-  <h2>About Me</h2>
+  <br>
+  <h3>About Me</h3>
   <hr>
   <p>I am a sophomore at <a href="https://www.fordham.edu/">Fordham Univerity</a> in the <a href="https://www.fordham.edu/fordham-college-at-lincoln-center/honors-programs-societies-and-awards/honors-program/">honors program.</a>
   <br>
