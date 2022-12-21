@@ -22,5 +22,13 @@
   <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="C++" height="40" width="40">
   <img src="https://www.clipartkey.com/mpngs/m/210-2104705_html-logo-png-transparent-background.png" alt="C++" height="40" width="40">
   <img src="https://www.kindpng.com/picc/m/17-179376_swift-programming-language-logo-hd-png-download.png" alt="C++" height="40" width="40">
+  <hr>
+  <br>
+  <h3>My Projects!</h3>
+  <hr>
+  <p>Play my Rock, Paper, Scissors game <a href="https://codehs.com/sandbox/taylormichele/rock-paper-scissors/run">here!</a>
+  <br>
+  <h5>More projects coming soon...</h5>
+  </p>
 </body>
 </html>
