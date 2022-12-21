@@ -1,4 +1,4 @@
-<DOCTYPE! html>
+<html>
 <head>
   <h1>Nice to meet you!</h1>
 </head>
