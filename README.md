@@ -29,6 +29,7 @@
   <p>Play my Rock, Paper, Scissors game <a href="https://codehs.com/sandbox/taylormichele/rock-paper-scissors/run">here!</a>
   <br>
   <img src="https://github.com/taylor-clark6/All-About-Me/blob/main/RPS1.png?raw=true" alt="Rock, Paper, Scissors Start Page" width="150" height="200">
+  <img src="https://github.com/taylor-clark6/All-About-Me/blob/main/RPS2.png?raw=true" alt="Rock, Paper, Scissors Gameplay" width="150" height="200">
   <br>
   <h4>More projects coming soon...</h4>
   </p>
