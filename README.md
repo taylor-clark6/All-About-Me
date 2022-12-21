@@ -28,7 +28,7 @@
   <hr>
   <p>Play my Rock, Paper, Scissors game <a href="https://codehs.com/sandbox/taylormichele/rock-paper-scissors/run">here!</a>
   <br>
-  <h5>More projects coming soon...</h5>
+  <h4>More projects coming soon...</h4>
   </p>
 </body>
 </html>
